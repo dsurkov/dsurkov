@@ -29,4 +29,4 @@ TypeScript · React · Node/Express · PHP (WordPress, WooCommerce) · SQL (SQLi
 
 ## Contact
 
-denjamins@gmail.com · [LinkedIn](https://www.linkedin.com/in/denjamins)
+[LinkedIn](https://www.linkedin.com/in/denjamins)
